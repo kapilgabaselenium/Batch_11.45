@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="259" started-at="2018-10-14T05:39:05Z" finished-at="2018-10-14T05:39:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="259" started-at="2018-10-14T05:39:05Z" finished-at="2018-10-14T05:39:05Z">
+      <class name="pkg1.Class1">
+        <test-method status="PASS" signature="tc(java.lang.String, java.lang.String)[pri:0, instance:pkg1.Class1@4883b407]" name="tc" duration-ms="11" started-at="2018-10-13T22:39:05Z" data-provider="data_2" finished-at="2018-10-13T22:39:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String, java.lang.String)[pri:0, instance:pkg1.Class1@4883b407]" name="tc" duration-ms="2" started-at="2018-10-13T22:39:05Z" data-provider="data_2" finished-at="2018-10-13T22:39:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String, java.lang.String)[pri:0, instance:pkg1.Class1@4883b407]" name="tc" duration-ms="1" started-at="2018-10-13T22:39:05Z" data-provider="data_2" finished-at="2018-10-13T22:39:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String, java.lang.String)[pri:0, instance:pkg1.Class1@4883b407]" name="tc" duration-ms="5" started-at="2018-10-13T22:39:05Z" data-provider="data_2" finished-at="2018-10-13T22:39:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String, java.lang.String)[pri:0, instance:pkg1.Class1@4883b407]" name="tc" duration-ms="3" started-at="2018-10-13T22:39:05Z" data-provider="data_2" finished-at="2018-10-13T22:39:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String, java.lang.String)[pri:0, instance:pkg1.Class1@4883b407]" name="tc" duration-ms="2" started-at="2018-10-13T22:39:05Z" data-provider="data_2" finished-at="2018-10-13T22:39:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String, java.lang.String)[pri:0, instance:pkg1.Class1@4883b407]" name="tc" duration-ms="4" started-at="2018-10-13T22:39:05Z" data-provider="data_2" finished-at="2018-10-13T22:39:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- pkg1.Class1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
